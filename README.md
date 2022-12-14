@@ -25,13 +25,11 @@ python manage.py makemigrations
 ```
 python manage.py migrate
 ```
-
 #### Starting the Server
 
 ```
 python manage.py runserver
 ```
-
 #### Running Tests
 
 ```
